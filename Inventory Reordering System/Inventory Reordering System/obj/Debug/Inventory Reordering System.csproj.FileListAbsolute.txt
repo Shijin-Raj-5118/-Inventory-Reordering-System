@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\bin\Debug\Inventory Reordering System.exe.config
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\bin\Debug\Inventory Reordering System.exe
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\bin\Debug\Inventory Reordering System.pdb
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\obj\Debug\Inventory Reordering System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\obj\Debug\Inventory Reordering System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\obj\Debug\Inventory Reordering System.exe
+C:\Users\Administrator\Desktop\shijin\console application\Inventory Reordering System\Inventory Reordering System\obj\Debug\Inventory Reordering System.pdb
